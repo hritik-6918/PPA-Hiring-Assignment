@@ -20,7 +20,6 @@ A brief description of your project.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -28,9 +27,6 @@ A brief description of your project.
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
-
-Project Name is a [brief description of your project]. It [describe its purpose and what problem it solves].
 
 ## Features
 
@@ -57,7 +53,7 @@ Make sure you have Node.js and npm installed.
 
 1. Clone the repo
    ```sh
-   git clone [https://github.com/yourusername/project-name.git](https://github.com/yashlohade21/PPA-Hiring-Assignment.git)
+   git clone [https://github.com/yourusername/project-name.git](https://github.com/hritik-6918/PPA-Hiring-Assignment.git)
 
 2. Navigate into the project directory
 
@@ -71,9 +67,9 @@ Make sure you have Node.js and npm installed.
 2. Open your browser and navigate to http://localhost:3000 to view the application.
 
 Contact
-Your Name - [https://yashlohade21.github.io/portfolio](https://yashlohade21.github.io/portfolio)
+Your Name - [https://github.com/hritik-6918](https://github.com/hritik-6918)
 
-Project Link:[https://pprassignment.vercel.app](https://pprassignment.vercel.app/)
+Project Link:[https://ppa-hiring-assignment-blue.vercel.app/](https://ppa-hiring-assignment-blue.vercel.app/)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -92,4 +88,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://pprassignment.vercel.app/) from the creators of Next.js.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://ppa-hiring-assignment-blue.vercel.app/) from the creators of Next.js.
