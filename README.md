@@ -69,7 +69,7 @@ Make sure you have Node.js and npm installed.
 Contact
 Your Name - [https://github.com/hritik-6918](https://github.com/hritik-6918)
 
-Project Link:[https://ppa-hiring-assignment-blue.vercel.app/](https://ppa-hiring-assignment-blue.vercel.app/)
+Project Link: [https://ppa-hiring-assignment-blue.vercel.app/](https://ppa-hiring-assignment-blue.vercel.app/)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
